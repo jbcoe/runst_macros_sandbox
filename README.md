@@ -1,0 +1,1 @@
+Following https://doc.rust-lang.org/reference/macros.html to learn about Rust macros.
